@@ -1,3 +1,5 @@
+<img width="240" height="240" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/956d9822-92b9-4900-8403-05b445d9c0aa" />
+
 # 💱 Conversor de Moedas em Java
 
 Este projeto é um **Conversor de moedas** desenvolvido em **Java**, que consome a **[ExchangeRate API](https://www.exchangerate-api.com/)** para realizar conversões entre diferentes moedas em tempo real.
