@@ -7,7 +7,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConexaoAPI {
-    String chaveAPI = "9e0eae0a8f6164fc225ef1a3";
+    String chaveAPI = "SUA CHAVE AQUI";
     String currency = "USD";
     String endereco;
 

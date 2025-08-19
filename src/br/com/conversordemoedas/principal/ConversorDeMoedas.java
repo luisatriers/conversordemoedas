@@ -3,7 +3,7 @@ package br.com.conversordemoedas.principal;
 import com.google.gson.Gson;
 import java.util.Scanner;
 
-public class Main {
+public class ConversorDeMoedas {
     private static final Scanner sc = new Scanner(System.in);
     private static final ConexaoAPI api = new ConexaoAPI();
     private static final Gson gson = new Gson();
